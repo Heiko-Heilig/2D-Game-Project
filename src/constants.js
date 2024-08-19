@@ -4,7 +4,7 @@ export const dialogueData = {
     computer: `This is my PC. I am currently doing the Front-End-Engineering Course on Codecademy and I watch tons of UX Tutorials. Who knows, maybe someday I'll turn into a UX Unicorn!`,
 
     tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-     <a href="https://www.youtube.com/@UICollectiveDesign" target="_blank">UI Collective</a>, <a href="https://www.youtube.com/@InteractionDesignOrg" target="_blank">INteraction Design Foundation</a>,
+     <a href="https://www.youtube.com/@UICollectiveDesign" target="_blank">UI Collective</a>, <a href="https://www.youtube.com/@InteractionDesignOrg" target="_blank">Interaction Design Foundation</a>,
     <a href="https://www.youtube.com/@freecodecamp" target="_blank">FreeCodeCamp</a> (sometimes) and <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygULcmljayBhc3RsZXk%3D" target="_blank">AstleyUX</a>!`,
     bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
    resume: `This is my resume. Who put it on the wall? anyway, <br> <a href="https://heikoheilig.com/wp-content/uploads/2024/08/Heiko_Polinski_UX_Designer_Resume.pdf" target="_blank">Here you can check it out</a>
@@ -18,4 +18,5 @@ export const dialogueData = {
     console:`Oh, my old GameCube! I like playing older games. These days I play more on PC though.`,
     pots:`This is just my trash bin. My portfolio isn't in here, silly!.`,
     picture:`This is picture my wife and I back in the Philippines. I used to live there for a year before we moved to Canada.`,
+    collectable:`This is my Roronoa Zoro collectable, I'm a nerd, so what? Leave me alone.(...But still hire me, please).`,
   };
